@@ -1,0 +1,10 @@
+{
+  "name": "root/di.loc",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/",
+      "Core\\": "core/"
+    }
+  }
+}
